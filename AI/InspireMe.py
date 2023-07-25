@@ -5,7 +5,7 @@ import time
 Mo=[""]
 
 def Motivate():
-	openai.api_key = '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'
+	openai.api_key = #Write your own Key
 	messages = [ {"role": "system", "content":
 			"You are an intelligent assistant."} ]
 	
